@@ -1,0 +1,148 @@
+
+/* body {
+    background-image: url("https://image.shutterstock.com/z/stock-vector-concept-of-devops-illustrates-software-delivery-automation-through-collaboration-and-communication-1213223074.jpg")  
+} */
+/* The navigation bar */
+/* Set the navbar to fixed position */
+/* Position the navbar at the top of the page */
+/* Full width */
+.navbar {
+    /* overflow: hidden; */
+    background-color: #333;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+  }
+  
+  /* Links inside the navbar */
+/* .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+} */
+  
+  /* Change background on mouse-over */
+  /* .navbar a:hover {
+    background: #ddd;
+    color: black;
+  } */
+  
+  /* Main content */
+  /* Add a top margin to avoid content overlay */
+  /* .main {
+    margin-top: 30px; 
+  } */
+/* .jumbotron{
+    background-image: url("https://image.shutterstock.com/z/stock-vector-concept-of-devops-illustrates-the-communication-and-collaboration-between-development-and-581136349.jpg")
+} */
+/* .card {
+    position: absolute;
+    top: 700px;
+    left: 400px;
+    
+
+} */
+
+/* img {
+    position: absolute;
+    top: 220px;
+    left: 445px
+} */
+
+/* .rounded-circle {
+    width: 225px;
+    height: 225px;
+    left: 235px;
+    top: 222px
+} */
+
+.sdlc1 {
+    position: absolute;
+    left: 63px;
+    top: 35px;
+    /* transition: 3s; */
+}
+
+.sdlc1:hover {
+    width: 300px;
+    height: 300px;
+    z-index: 3;
+    transition-timing-function: ease-in-out;
+}
+
+.sdlc2 {
+    position: absolute;
+    left: 340px;
+    top: 35px;
+    /* transition: 3s; */
+}
+
+.sdlc2:hover {
+    width: 300px;
+    height: 300px;
+    z-index: 3;
+    transition-timing-function: ease-in-out;
+}
+
+.sdlc3 {
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Safari */
+    transform: rotate(0deg);
+    position: absolute;
+    left: 470px;
+    top: 200px;
+    /* transition: 3s; */
+}
+
+.sdlc3:hover {
+    width: 300px;
+    height: 300px;
+    z-index: 3;
+    transition-timing-function: ease-in-out;
+}
+
+.sdlc4 {
+    position: absolute;
+    left: 285px;
+    top: 430px;
+    /* transition: 3s; */
+}
+
+.sdlc4:hover {
+    width: 300px;
+    height: 300px;
+    z-index: 3;
+    transition-timing-function: ease-in-out;
+}
+
+.sdlc5 {
+    position: absolute;
+    left: 60px;
+    top: 420px;
+    /* transition: 3s; */
+}
+
+.sdlc5:hover {
+    width: 300px;
+    height: 300px;
+    z-index: 3;
+    transition-timing-function: ease-in-out;
+}
+
+.sdlc6 {
+    position: absolute;
+    left: 15px;
+    top: 190px;
+    transition-timing-function: ease-in-out;
+}
+
+.sdlc6:hover {
+    width: 300px;
+    height: 300px;
+    z-index: 3;
+    /* transition-timing-function: ease-in-out; */
+}
+
