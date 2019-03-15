@@ -160,7 +160,7 @@ const showProject = () => {
 
         if(currentPhoto == '/images/budgetHobo.png') {
           let projectText = document.createElement('p');
-          let text = document.createTextNode('The Budget Hobo allows the user to set up a budget and pull financial data from thire bank via API. HTML, CSS, Fontawesome, JavaScript, JQuery, Node.js, Express, Plaid (API)');
+          let text = document.createTextNode('The Budget Hobo allows the user to set up a budget and pull financial data from thier bank via API. (HTML, CSS, Fontawesome, JavaScript, JQuery, Node.js, Express, Plaid (API))');
           let githubButton = document.createElement('button');
           let buttonText = document.createTextNode('GitHub Repo');
           let githubRef = document.createElement('a');
